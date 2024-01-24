@@ -1,1 +1,1 @@
-{"name":"Testuoju su treciu blogu","text":"Testas"}
+{"name":"Testuoju su treciu blogu","text":"Testas Baigtas","images":""}
