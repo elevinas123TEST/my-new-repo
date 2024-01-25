@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"blog1","components":[],"published":false},{"title":"Testas 1","components":[],"published":false},{"title":"Testas nr 3","components":[],"id":"84a2ca79-77b1-4aea-a455-70a7b3a7871b","published":false}]}
+{"images":[],"blogs":[{"title":"blog1","components":[],"published":false},{"title":"Testas 1","components":[],"published":false},{"title":"Testas nr 4","components":[],"id":"84a2ca79-77b1-4aea-a455-70a7b3a7871b","published":false}]}
