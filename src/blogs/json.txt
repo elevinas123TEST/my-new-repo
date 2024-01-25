@@ -1,1 +1,1 @@
-{"images":[],"blogs":[]}
+{"images":[],"blogs":[{"title":"blog1","components":[],"published":false}]}
