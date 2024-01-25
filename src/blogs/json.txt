@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"blog1","components":[],"published":false},{"title":"blog1","components":[],"published":false,"id":"52c482e4-d41d-4d39-b938-caecd159f978"}]}
+{"images":[],"blogs":[{"title":"blog1","components":[],"published":false},{"title":"Testas 1","components":[],"published":false}]}
