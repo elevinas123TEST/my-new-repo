@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"ohj;iouhjiou","components":[{"type":"text","content":"mpkiop\n[kl[p","id":"c16c7f91-3ff1-4e3d-8e57-09253e91468a","index":0}],"id":"42e5be22-1fac-43a2-bf64-4b0d98c7632e","published":false}]}
+{"images":[],"blogs":[{"title":"ohj;iouhjiou","components":[{"type":"text","content":"mpkiop\n[kl[p","id":"c16c7f91-3ff1-4e3d-8e57-09253e91468a","index":0}],"id":"42e5be22-1fac-43a2-bf64-4b0d98c7632e","published":false},{"title":"bnkmbm","components":[],"published":false,"id":"057590c8-f916-4c28-b8a5-99fcda1b64cd"}]}
