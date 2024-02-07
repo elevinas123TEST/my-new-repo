@@ -1,1 +1,1 @@
-{"images":[],"blogs":[]}
+{"images":[],"blogs":[{"title":"ghjghj","components":[],"published":false,"id":"96f49153-bfd0-4eb4-81d6-afc1ec67c41e"}]}
