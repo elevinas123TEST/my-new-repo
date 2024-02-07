@@ -1,1 +1,1 @@
-{"images":[],"blogs":[]}
+{"images":[],"blogs":[{"title":"hiuhilughiuk","components":[],"published":false,"id":"10cb12b7-3db0-46a7-a816-6bd8473dd3e4"}]}
