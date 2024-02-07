@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"hiuhilughiuk","components":[],"id":"10cb12b7-3db0-46a7-a816-6bd8473dd3e4","published":false}]}
+{"images":[],"blogs":[{"title":"hiuhilughiuk","components":[{"type":"text","content":"dtyhdftyfhk","id":"58b42595-0f03-487a-add5-ee7e70c960eb","index":0}],"id":"10cb12b7-3db0-46a7-a816-6bd8473dd3e4","published":false}]}
